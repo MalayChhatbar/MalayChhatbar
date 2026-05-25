@@ -101,29 +101,21 @@ A deterministic command runner for reproducing flaky tests, cache bugs, and loca
   width="100%" 
 />
 
+<br /><br />
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MalayChhatbar&theme=github" 
+  alt="Top Languages by Repo" 
+  width="49%" 
+/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MalayChhatbar&theme=github" 
+  alt="Top Languages by Commit" 
+  width="49%" 
+/>
+
 </div>
-
-<br />
-
-<table>
-  <tr>
-    <td width="50%">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MalayChhatbar&theme=github" 
-        alt="Top Languages by Repo" 
-        width="100%" 
-      />
-    </td>
-    <td width="50%">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MalayChhatbar&theme=github" 
-        alt="Top Languages by Commit" 
-        width="100%" 
-      />
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## Contact
