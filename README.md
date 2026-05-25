@@ -95,14 +95,34 @@ A deterministic command runner for reproducing flaky tests, cache bugs, and loca
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalayChhatbar&theme=github" alt="Malay's GitHub Profile Summary" />
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalayChhatbar&theme=github" 
+  alt="GitHub Profile Summary" 
+  width="100%" 
+/>
+
+</div>
 
 <br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MalayChhatbar&theme=github" alt="Top Languages by Repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MalayChhatbar&theme=github" alt="Top Languages by Commit" />
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MalayChhatbar&theme=github" 
+        alt="Top Languages by Repo" 
+        width="100%" 
+      />
+    </td>
+    <td width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MalayChhatbar&theme=github" 
+        alt="Top Languages by Commit" 
+        width="100%" 
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
