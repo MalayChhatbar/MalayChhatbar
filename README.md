@@ -95,9 +95,11 @@ A deterministic command runner for reproducing flaky tests, cache bugs, and loca
 
 <div align="center">
 
-![Malay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalayChhatbar&show_icons=true&hide_border=true&theme=default)
+<img src="https://github-readme-stats.vercel.app/api?username=MalayChhatbar&show_icons=true&hide_border=true" alt="Malay's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MalayChhatbar&layout=compact&hide_border=true&theme=default)
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalayChhatbar&layout=compact&hide_border=true" alt="Top Languages" />
 
 </div>
 
